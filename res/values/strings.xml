@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Cliping</string>
+    <string name="action_settings">裁剪</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
